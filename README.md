@@ -1,5 +1,8 @@
-## Hi there 👋
-
+Hello👋
+I'm Ethan, an aspiring founder interested in web applications!
+   - 🔭 I’m currently working on building out **Rhythma**, a file hosting system for content creators
+   - 🌱 I’m currently learning Java/Springboot
+   - ⚡ I have the most experience with the PERN stack (PostgreSQL, Express, React, Node)
 <!--
 **Floppae/Floppae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
